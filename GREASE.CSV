@@ -1,0 +1,10 @@
+pmet->uXSize,pmet->dwSize.X
+pmet->uYSize,pmet->dwSize.Y
+pgw->uXPos,LeftOf(pgw)
+pgw->uYPos,TopOf(pgw)
+pgw->uXSize,XSize(pgw)
+pgw->uYSize,YSize(pgw)
+pgw->uClientXPos,CXPos(pgw)
+pgw->uClientYPos,CYPos(pgw)
+pgw->uClientXSize,CXSize(pgw)
+pgw->uClientYSize,CYSize(pgw)
